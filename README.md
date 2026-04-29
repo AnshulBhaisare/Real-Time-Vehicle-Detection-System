@@ -30,8 +30,8 @@ project-folder/
 │
 ├── notebooks/
 │ └── vehicle_tracking_counting.ipynb
-│ └──Highway-Footage1.mp4
-│ └──Highway-Footage2.mp4
+│ └── Highway-Footage1.mp4
+│ └── Highway-Footage2.mp4
 │
 ├── requirements.txt
 ├── README.md
