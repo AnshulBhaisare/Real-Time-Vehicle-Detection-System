@@ -23,7 +23,7 @@ This project performs real-time vehicle detection, tracking, and counting on hig
 - Matplotlib
 
 ---
-
+```bash
 ## 📂 Project Structure
 project-folder/
 │
@@ -32,7 +32,7 @@ project-folder/
 │
 ├── requirements.txt
 ├── README.md
-
+```
 ---
 
 ## ▶️ How to Run
